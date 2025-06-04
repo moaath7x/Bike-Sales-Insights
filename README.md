@@ -7,9 +7,13 @@ This project focuses on analyzing bike sales data using Microsoft Excel. The dat
 
 🔍 Key Features:
 Data cleaning and preprocessing
+
 Pivot tables and charts for dynamic summaries
+
 Sales trends by gender, age, and region
+
 Product performance analysis
+
 Dashboard for quick visual insights
 
 🛠 Tools Used:
