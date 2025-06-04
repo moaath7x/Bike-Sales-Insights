@@ -2,7 +2,7 @@
 Excel-based analysis of bike sales data with dashboards and insights.
 
 
-📊 Bike Sales Data Analysis
+📊 Bike Sales Data Analysis:
 
 This project focuses on analyzing bike sales data using Microsoft Excel. The dataset includes customer demographics, product categories, and sales performance. Through cleaning, organizing, and visualizing the data, the project extracts meaningful insights to support business decisions and identify trends in the bike retail market.
 
